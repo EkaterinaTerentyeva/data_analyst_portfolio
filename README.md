@@ -1,4 +1,4 @@
-This portfolio contains educational projects as well as pet projects. Pet projects are marked as "pet". Educational projects were implemented during training "Yandex.Practicum Data Analyst Plus" <a href="https://practicum.yandex.ru/promo/long-courses/data-analyst">course data analyst plus </a>
+This portfolio contains educational projects as well as pet projects. Pet projects are marked as "pet". Educational projects were implemented during training <a href="https://practicum.yandex.ru/promo/long-courses/data-analyst">Yandex.Practicum Data Analyst Plus</a>
 
 <a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/blob/main/Rent%20apartment%20Toulouse.ipynb">Rent appartment in Toulouse</a> 
 
