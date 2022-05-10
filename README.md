@@ -45,8 +45,14 @@
     <td>pandas, seaborn, numpy, python, requests, primary data analysis, exploratory data analysis, folium, geopy, fuzzywuzzy, sqlite3, io, plotly
        <td>russian/educational project</td>  
   </tr>
+<tr>
+    <td><a href="
+ https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/07_Net_promoter_score_telecom">Net promoter score telecom</a></td>
+    <td>We will create dashboard for visualization total net promoter score (NPS) and NPS for clients separated on groups by the age, traffic consuming, city, sex, lifetime, etc. This dashboard will let us know the portrait of typical detractor and typical promoter  </td>
+    <td>pandas, python, sqlalchemy, SQL, Tableau Public, presentation Open Document
+       <td>russian/educational project</td>  
+  </tr>
 
- 
  
  
  
