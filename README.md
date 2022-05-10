@@ -27,7 +27,14 @@
     <td>pandas, pymystem, numpy, python, lemmatization, primary data analysis</td>
        <td>russian/educational project</td>  
   </tr>
+ <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/04_Real_estate_sales_Saint_Petersburg">Real estate sales Saint Petersburg</a></td>
+    <td>We will check advertisement from Yandex.Nedvigimost to identify fraudulent activity, correlation between price and other parameters of apartments, difference between apartment in the centre and other rayons </td>
+    <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis</td>
+       <td>russian/educational project</td>  
+  </tr>
 
 
+ 
  
  
