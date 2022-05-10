@@ -41,7 +41,7 @@
   </tr>
 <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/06_Opening_cafe_in_Moscow">Opening cafe in Moscow</a></td>
-    <td>We will check common practice and trend in catering establishments market for its implementing in our project "robocafe" </td>
+    <td>We will check common practice and trends in catering establishments market for its implementing in our project "robocafe" </td>
     <td>pandas, seaborn, numpy, python, requests, primary data analysis, exploratory data analysis, folium, geopy, fuzzywuzzy, sqlite3, io, plotly, presentation Open Document
        <td>russian/educational project</td>  
   </tr>
