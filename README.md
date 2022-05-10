@@ -14,7 +14,7 @@
     <td>pandas, web parser extension, seaborn, python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Happiness score evolution</a></td>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/01_Evolution_of_the_happiness_score">Happiness score evolution</a></td>
     <td>We will visualize dynamics of happiness score and its components like GDP, social support, life expectancy, generosity, perception of corruption and freedom of choice. The dashboard covers all countries for the last 5 years as well as visualizes the top achievers amoung countries</td>
     <td>pandas, Tableau Public, primary data analysis, numpy, python</td>
   </tr>
