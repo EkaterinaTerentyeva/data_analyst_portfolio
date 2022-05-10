@@ -1,5 +1,5 @@
 ## Data analyst portfolio
-#### This portfolio contains educational projects as well as pet projects. Educational projects were implemented during training <a href="https://practicum.yandex.ru/promo/long-courses/data-analyst">Yandex.Practicum Data Analyst Plus</a> and reviewed by the team of data analysts
+#### This portfolio contains educational projects as well as pet projects. Educational projects were implemented during training <a href="https://practicum.yandex.ru/promo/long-courses/data-analyst">Yandex.Practicum Data Analyst Plus</a> and reviewed by the team of data analysts. All projects constitute jupyter notebook files
  <hr>
 
 <table width=100% valign=top >
