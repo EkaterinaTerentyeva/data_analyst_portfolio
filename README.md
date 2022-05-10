@@ -17,7 +17,7 @@
   </tr>
         <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/02_Rent_apartment_in_Toulouse">Rent apartment in Toulouse</a></td>
-    <td>Using information from leboncoin.fr we will estimate the possibility of renting 3 rooms appatment in various neighborhoods of Toulouse according to the number of offers, calculate the budget for rent, estimate the average living area for 3 rooms appartments and  the chance to rent an appartment directly from the owner</td>
+    <td>Using information from leboncoin.fr we will estimate the possibility of renting 3 rooms apartment in various neighborhoods of Toulouse according to the number of offers, calculate the budget for rent, estimate the average living area and  the chance to rent an apartment directly from the owner</td>
     <td>pandas, web parser extension, seaborn, python</td>
        <td>english/pet project</td>  
   </tr>
