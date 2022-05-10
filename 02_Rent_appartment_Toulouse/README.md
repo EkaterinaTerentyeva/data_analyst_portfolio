@@ -1,4 +1,4 @@
-## Rent appartment in Toulouse
+## Rent apartment in Toulouse
 	
 <hr>
 
