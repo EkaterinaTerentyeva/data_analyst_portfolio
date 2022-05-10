@@ -34,8 +34,8 @@
        <td>russian/educational project</td>  
   </tr>
  <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/05_Films_at_the_Russian_box_office">Films at the russian box office </a></td>
-    <td>We will know what is trending at russian box office and if russian movies with state support are popular and bring money </td>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/05_Films_in_russian_cinemas">Films in russian cinemas</a></td>
+    <td>We will know what is trending in russian cinemas and if russian movies with state support are popular and bring money </td>
     <td>pandas, seaborn, numpy, python, os, primary data analysis, exploratory data analysis</td>
        <td>russian/educational project</td>  
   </tr>
