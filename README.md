@@ -21,4 +21,13 @@
     <td>pandas, web parser extension, seaborn, python</td>
        <td>english/pet project</td>  
   </tr>
+ <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/03_Reliability_of_the_bank's_borrowers">Reliability of the banks borrowers</a></td>
+    <td>We will check impact of different client's attributes (such as having kids, family status, level of salary, purpose of the credit) on loan repayment. This information can be helpful for the credit scoring model creation</td>
+    <td>pandas, pymystem, numpy, python, lemmatization, primary data analysis</td>
+       <td>russian/educational project</td>  
+  </tr>
 
+
+ 
+ 
