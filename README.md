@@ -33,7 +33,12 @@
     <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis</td>
        <td>russian/educational project</td>  
   </tr>
-
+ <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/05_Russian_movies_with_state_support">Russian movies </a></td>
+    <td>We will check advertisement from Yandex.Nedvigimost to identify fraudulent activity, correlation between price and other parameters of apartments, difference between apartment in the centre and other rayons </td>
+    <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis</td>
+       <td>russian/educational project</td>  
+  </tr>
 
  
  
