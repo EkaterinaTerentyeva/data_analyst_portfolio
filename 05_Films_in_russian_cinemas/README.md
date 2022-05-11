@@ -4,9 +4,9 @@
 
 ### Tasks
 - determine trends in russian film distribution
-- check if russian movies with state support are popular and have the same characteristics as other movies in cinemas
+- check whether the popularity of the state supported russian movies and others have the same characteritics
 
 ### Description
-- for the russian Ministry of Culture we will analyse russian film distribution: number of movies by the year, box offices, popular genres, age restrictions, average rank. Information about film's rank is taken from https://www.kinopoisk.ru/ and in some cases is not correct (for movies having the same name). We will pay special attention for russian films with state support and will check how popular they are, what is the principal genre, if they have good box offices and what is evolution of state support amount
+-  We analyse russian film distribution for our client, the russian Ministry of Culture. Specifically, the collected data include the number of movies by year, box offices, popular genres, age restrictions, average rank. Information about film's rank is taken from https://www.kinopoisk.ru/ , which somtimes contains errors (such as for movies having the same title). A special attention is paid to russian films with state support, defining the level of their popularity, their genre, and income from ticket sales. Finally, we check the evolution of the state support to the russian movie industry.
 ### Tools
 `python` `jupyter notebook` `seaborn` `pandas` `os` `seaborn` `matplotlib` `primary data analysis` `exploratory data analysis`
