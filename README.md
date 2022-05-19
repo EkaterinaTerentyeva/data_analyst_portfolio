@@ -53,7 +53,13 @@
   </tr>
 
  
- 
+ <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/07_Net_promoter_score_telecom">Product funnel</a></td>
+    <td>We calculate CR (conversion rate) for each purchase step in internet shop. We present the results in the forme of product funnel </td>
+    <td>pandas, python, primary data analysis, plotly, Tableau Public, product funnel, conversion rate
+       <td>english/pet project</td>  
+  </tr>
+
  
  
  
