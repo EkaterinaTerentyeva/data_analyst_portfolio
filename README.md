@@ -59,6 +59,13 @@
     <td>pandas, python, primary data analysis, plotly, Tableau Public, product funnel, conversion rate
        <td>english/pet project</td>  
   </tr>
+ 
+  <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/09_Business_analysis_ProcrastinatePro%2B">Business_analysis_ProcrastinatePro</a></td>
+    <td>We find out reasons for the inefficiency of attracting users and formulate recommendations for the marketing department.</td>
+    <td>pandas, python, seaborn, LTV, CAC, ROI, conversion, retention, cohort analysis, unit economics
+       <td>russian/educational project</td>  
+  </tr>
 
  
  
