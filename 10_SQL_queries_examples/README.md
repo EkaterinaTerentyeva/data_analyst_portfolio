@@ -3,7 +3,7 @@
 <hr>
 
 ### Tasks
-- download information from data baseaccording to the task
+- download information from the database according to the task
 
 
 ### Tools
