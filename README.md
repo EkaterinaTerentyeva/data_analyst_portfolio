@@ -66,6 +66,14 @@
     <td>pandas, python, seaborn, LTV, CAC, ROI, conversion, retention, cohort analysis, unit economy
        <td>russian/educational project</td>  
   </tr>
+ 
+  <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/09_Business_analysis_ProcrastinatePro%2B">Business_analysis_ProcrastinatePro</a></td>
+    <td>Examples of queries SQL</td>
+    <td>SQL
+       <td>english/educational project</td>  
+  </tr>
+
 
  
  
