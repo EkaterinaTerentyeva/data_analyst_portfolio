@@ -68,7 +68,7 @@
   </tr>
  
   <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/09_Business_analysis_ProcrastinatePro%2B">Business_analysis_ProcrastinatePro</a></td>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/10_SQL_queries_examples">Examples of SQL queries</a></td>
     <td>Examples of queries SQL</td>
     <td>SQL
        <td>english/educational project</td>  
