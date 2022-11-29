@@ -3,8 +3,8 @@
 <hr>
 
 ### Tasks
--predict the probability of churn (at the level of the next month) for each client
--form typical client portraits
+- predict the probability of churn (at the level of the next month) for each client
+- form typical client portraits
 - formulate the main conclusions and develop recommendations:
 1) identify target customer groups;
 2) propose measures to reduce churn;
