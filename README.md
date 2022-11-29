@@ -88,6 +88,14 @@
     <td>pandas, scipy, numpy, python, os, statistics
        <td>english/educational project</td>  
   </tr>
+  
+  <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/12_AB_test">ML</a></td>
+    <td>Using different models we predict Churn Rate and cluster clients</td>
+    <td>pandas, scipy, numpy, python, os, sklearn
+       <td>english/educational project</td>  
+  </tr>
+
 
 
  
