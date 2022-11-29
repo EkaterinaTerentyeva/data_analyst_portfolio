@@ -82,6 +82,13 @@
   </tr>
 
 
+<tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/11_Statistical%20hypothesis%20testing">AB test</a></td>
+    <td>We gonna prioritize hypotheses, run AB test and analize its results</td>
+    <td>pandas, scipy, numpy, python, os, statistics
+       <td>english/educational project</td>  
+  </tr>
+
 
  
  
