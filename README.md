@@ -73,6 +73,14 @@
     <td>SQL
        <td>english/educational project</td>  
   </tr>
+  
+  <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/10_SQL_queries_examples"></a></td>
+    <td>Statistical hypothesis testing</td>
+    <td>pandas, scipy, numpy, python, os, primary data analysis, exploratory data analysis
+       <td>english/educational project</td>  
+  </tr>
+
 
 
  
