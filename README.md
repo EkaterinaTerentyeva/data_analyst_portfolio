@@ -75,8 +75,8 @@
   </tr>
   
   <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/10_SQL_queries_examples"></a></td>
-    <td>Statistical hypothesis testing</td>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/11_Statistical%20hypothesis%20testing">Statistical hypothesis testing</a></td>
+    <td>We gonna test 2 hypothesis using ttest</td>
     <td>pandas, scipy, numpy, python, os, primary data analysis, exploratory data analysis
        <td>english/educational project</td>  
   </tr>
