@@ -95,6 +95,15 @@
     <td>pandas, scipy, numpy, python, os, sklearn
        <td>english/educational project</td>  
   </tr>
+  
+  
+  <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/13_ML">Graduation project</a></td>
+    <td>We gonna analyze game application, results of AB test and write SQL queries</td>
+    <td>pandas, scipy, numpy, python, os, scipy, seaborn, matplotlib, ttest, ztest, SQL
+       <td>english/educational project</td>  
+  </tr>
+
 
 
 
