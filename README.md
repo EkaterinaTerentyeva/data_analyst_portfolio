@@ -117,7 +117,7 @@
     <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/15_You_tube_channel">AIDA metrics for YouTube channel</a></td>
     <td>I created a dashboard according to the requirements of the client</td>
-    <td>Tableau
+    <td>Tableau</td>
        <td>english/pet project</td>  
    </tr>
   
@@ -127,6 +127,7 @@
    <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis<
    <td>russian/pro bono project</td>  
   </tr>
+  
    <tr>
    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/17_ProCharity_Project">ProCharity Project</a></td>
    <td>I created the set of dashboards according to the terms of reference</td>
