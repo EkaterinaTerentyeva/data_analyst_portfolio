@@ -125,7 +125,7 @@
    <td>russian/pro bono project</td>  
   
    <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/16_Project_for_Russian_charitable_organization_Бюро_добрых_дел">ProCharity Project</a></td>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/17_ProCharity_Project">ProCharity Project</a></td>
    <td>I created the set od dashboards according to the terms of reference</td>
    <td>Tableau
    <td>russian/pro bono project</td>  
