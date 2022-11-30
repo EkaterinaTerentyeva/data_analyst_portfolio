@@ -103,6 +103,14 @@
        <td>english/pet project</td>  
   </tr>
   
+    <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/14_Marven_pizza_challenge">AIDA metrics for YouTube channel</a></td>
+    <td>I created a dashboard according to the requirements of the client</td>
+    <td>Tableau
+       <td>english/pet project</td>  
+  </tr>
+  
+  
   
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Graduation project</a></td>
