@@ -111,7 +111,7 @@
   <td>I created a dashboard according to the requirements of the client</td>
   <td>Tableau
    <td>english/pet project</td>  
-   
+  </tr> 
    
   
     <tr>
