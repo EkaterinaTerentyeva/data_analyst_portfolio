@@ -131,7 +131,7 @@
    </tr>
    
      <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/17_ProCharity_Project">ProCharity Project</a></td>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/18_Vordi_Driver">Vordi Driver Project/a></td>
    <td>I created the set of dashboards according to the terms of reference</td>
    <td>Looker
    <td>russian/pro bono project</td> 
