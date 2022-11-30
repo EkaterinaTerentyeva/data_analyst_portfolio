@@ -97,7 +97,7 @@
   </tr>
   
   <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/13_ML">Marven pizza challenge</a></td>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/14_Marven_pizza_challenge">Marven pizza challenge</a></td>
     <td>I created a dashboard for participating in the Marven competition</td>
     <td>Tableau
        <td>english/pet project</td>  
