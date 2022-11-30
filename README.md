@@ -45,13 +45,13 @@
 <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/06_Opening_cafe_in_Moscow">Opening cafe in Moscow</a></td>
     <td>We check the common practice and trends in the catering market for the implemention of our project "robocafe" </td>
-    <td>pandas, seaborn, numpy, python, requests, primary data analysis, exploratory data analysis, folium, geopy, fuzzywuzzy, sqlite3, io, plotly, presentation Open Document
+    <td>pandas, seaborn, numpy, python, requests, primary data analysis, exploratory data analysis, folium, geopy, fuzzywuzzy, sqlite3, io, plotly, presentation Open Document</td>
        <td>russian/educational project</td>  
   </tr>
 <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/07_Net_promoter_score_telecom">Net promoter score telecom</a></td>
     <td>We create dashboard for the visualization of the total net promoter score (NPS) as well as detailed data filtered by the age, bandwidth use, city, sex, lifetime, etc. This dashboard draws the portrait of a typical detractor and typical promoter  </td>
-    <td>pandas, python, sqlalchemy, SQL, Tableau Public, presentation Open Document
+    <td>pandas, python, sqlalchemy, SQL, Tableau Public, presentation Open Document</td>
        <td>russian/educational project</td>  
   </tr>
 
@@ -66,21 +66,21 @@
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/09_Business_analysis_ProcrastinatePro%2B">Business_analysis_ProcrastinatePro</a></td>
     <td>We find out reasons for the inefficiency of marketing campaign and formulate recommendations for the marketing department.</td>
-    <td>pandas, python, seaborn, LTV, CAC, ROI, conversion, retention, cohort analysis, unit economy
+    <td>pandas, python, seaborn, LTV, CAC, ROI, conversion, retention, cohort analysis, unit economy</td>
        <td>russian/educational project</td>  
   </tr>
  
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/10_SQL_queries_examples">Examples of SQL queries</a></td>
     <td>Examples of queries SQL</td>
-    <td>SQL
+    <td>SQL</td>
        <td>english/educational project</td>  
   </tr>
   
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/11_Statistical%20hypothesis%20testing">Statistical hypothesis testing</a></td>
     <td>We gonna test 2 hypothesis using ttest</td>
-    <td>pandas, scipy, numpy, python, os, primary data analysis, exploratory data analysis
+    <td>pandas, scipy, numpy, python, os, primary data analysis, exploratory data analysis</td>
        <td>english/educational project</td>  
   </tr>
 
@@ -88,28 +88,28 @@
 <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/12_AB_test">AB test</a></td>
     <td>We gonna prioritize hypotheses, run AB test and analize its results</td>
-    <td>pandas, scipy, numpy, python, os, statistics
+    <td>pandas, scipy, numpy, python, os, statistics</td>
        <td>english/educational project</td>  
   </tr>
   
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/13_ML">ML</a></td>
     <td>Using different models we predict Churn Rate and cluster clients</td>
-    <td>pandas, scipy, numpy, python, os, sklearn
+    <td>pandas, scipy, numpy, python, os, sklearn</td>
        <td>english/educational project</td>  
   </tr>
   
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/14_Marven_pizza_challenge">Marven pizza challenge</a></td>
     <td>I created a dashboard for participating in the Marven competition</td>
-    <td>Tableau
+    <td>Tableau</td>
        <td>english/pet project</td>  
   </tr>
   
   <tr>
   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/15_You_tube_channel">AIDA metrics for YouTube channel</a></td>
   <td>I created a dashboard according to the requirements of the client</td>
-  <td>Tableau
+  <td>Tableau</td>
    <td>english/pet project</td>  
   </tr> 
    
@@ -124,21 +124,21 @@
      <tr>
    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/16_Project_for_Russian_charitable_organization_Бюро_добрых_дел">Relationship between recurrent and non-recurrent donor payments</a></td>
    <td>The main patterns between one-time payments and subscription payments are considered.</td>
-   <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis<
+   <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis</td>
    <td>russian/pro bono project</td>  
   </tr>
   
    <tr>
    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/17_ProCharity_Project">ProCharity Project</a></td>
    <td>I created the set of dashboards according to the terms of reference</td>
-   <td>Tableau
+   <td>Tableau</td>
    <td>russian/pro bono project</td>  
    </tr>
    
      <tr>
    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/18_Vordi_Driver">Vordi Driver Project</a></td>
    <td>I created the set of dashboards according to the terms of reference</td>
-   <td>Looker
+   <td>Looker</td>
    <td>russian/pro bono project</td> 
   </tr>
   
@@ -146,7 +146,7 @@
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Graduation project</a></td>
     <td>We gonna analyze game application, results of AB test and write SQL queries</td>
-    <td>pandas, scipy, numpy, python, os, scipy, seaborn, matplotlib, ttest, ztest, SQL
+    <td>pandas, scipy, numpy, python, os, scipy, seaborn, matplotlib, ttest, ztest, SQL</td>
        <td>english/educational project</td>  
   </tr>
 
