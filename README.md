@@ -106,54 +106,7 @@
        <td>english/pet project</td>  
   </tr>
   
-  <tr>
-  <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/15_You_tube_channel">AIDA metrics for YouTube channel</a></td>
-  <td>I created a dashboard according to the requirements of the client</td>
-  <td>Tableau</td>
-   <td>english/pet project</td>  
-  </tr> 
-   
   
-    <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/15_You_tube_channel">AIDA metrics for YouTube channel</a></td>
-    <td>I created a dashboard according to the requirements of the client</td>
-    <td>Tableau</td>
-       <td>english/pet project</td>  
-   </tr>
-  
-     <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/16_Project_for_Russian_charitable_organization_Бюро_добрых_дел">Relationship between recurrent and non-recurrent donor payments</a></td>
-   <td>The main patterns between one-time payments and subscription payments are considered.</td>
-   <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis</td>
-   <td>russian/pro bono project</td>  
-  </tr>
-  
-   <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/17_ProCharity_Project">ProCharity Project</a></td>
-   <td>I created the set of dashboards according to the terms of reference</td>
-   <td>Tableau</td>
-   <td>russian/pro bono project</td>  
-   </tr>
-   
-     <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/18_Vordi_Driver">Vordi Driver Project</a></td>
-   <td>I created the set of dashboards according to the terms of reference</td>
-   <td>Looker</td>
-   <td>russian/pro bono project</td> 
-  </tr>
-  
-  
-  <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Graduation project</a></td>
-    <td>We gonna analyze game application, results of AB test and write SQL queries</td>
-    <td>pandas, scipy, numpy, python, os, scipy, seaborn, matplotlib, ttest, ztest, SQL</td>
-       <td>english/educational project</td>  
-  </tr>
-
-
-
-
- 
  
  
  
