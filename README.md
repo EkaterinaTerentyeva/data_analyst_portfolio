@@ -8,25 +8,29 @@
     <td width=20%>Tools</td>
    <td width=20%>Language/Type of project</td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/01_Evolution_of_the_happiness_score">Happiness score evolution</a></td>
     <td>We visualize dynamics of happiness score and its components like GDP, social support, life expectancy, generosity, perception of corruption and freedom of choice. The dashboard covers all countries for the last 5 years and visualizes the top achievers.</td>
     <td>pandas, Tableau Public, primary data analysis, numpy, python</td>
    <td>english/pet project</td>
   </tr>
-        <tr>
+        
+  <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/02_Rent_apartment_in_Toulouse">Rent apartment in Toulouse</a></td>
     <td>Using information from leboncoin.fr, we  estimate the possibility of renting 3 rooms apartment in various neighborhoods of Toulouse according to the number of offers, calculate the budget for rent, estimate the average living area and  the chance to rent an apartment directly from the owner</td>
     <td>pandas, web parser extension, seaborn, python</td>
        <td>english/pet project</td>  
   </tr>
+ 
  <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/03_Reliability_of_the_bank's_borrowers">Reliability of the banks borrowers</a></td>
     <td>We check the impact of various client's attributes  (such as having kids, family status, level of salary, purpose of the credit) on loan repayment. This information can be helpful for the creation of a credit scoring model </td>
     <td>pandas, pymystem, numpy, python, lemmatization, primary data analysis</td>
        <td>russian/educational project</td>  
   </tr>
- <tr>
+ 
+  <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/04_Real_estate_sales_Saint_Petersburg">Real estate sales Saint Petersburg</a></td>
     <td>We check the advertisement from Yandex.Nedvigimost to identify fraudulent activity, correlation between price and other real estate parameters and difference between real estate offers in the center and in other areas </td>
     <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis</td>
@@ -122,7 +126,7 @@
    <td>The main patterns between one-time payments and subscription payments are considered.</td>
    <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis<
    <td>russian/pro bono project</td>  
-  
+  </tr>
    <tr>
    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/17_ProCharity_Project">ProCharity Project</a></td>
    <td>I created the set of dashboards according to the terms of reference</td>
