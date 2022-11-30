@@ -119,7 +119,7 @@
    </tr>
   
      <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/15_You_tube_channel">Relationship between recurrent and non-recurrent donor payments</a></td>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/16_Project_for_Russian_charitable_organization_Бюро_добрых_дел">Relationship between recurrent and non-recurrent donor payments</a></td>
    <td>The main patterns between one-time payments and subscription payments are considered.</td>
    <td>pandas, seaborn, numpy, python, scipy, os, primary data analysis, exploratory data analysis<
    <td>russian/pro bono project</td>  
