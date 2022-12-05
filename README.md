@@ -131,6 +131,14 @@
    <td>Looker</td>
    <td>russian/pro bono project</td>
   </tr>
+  
+   <tr>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/18_Vordi_Driver">Maps of accidents Yekaterinburg</a></td>
+   <td>Analysis and visualization road accidents in Yekaterinburg</td>
+   <td>geopandas, pandas, folium, geopy, api, shapely, seaborn</td>
+   <td>english/pet project</td>
+  </tr>
+  
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Graduation project</a></td>
     <td>We gonna analyze game application, results of AB test and write SQL queries</td>
