@@ -1,7 +1,7 @@
 ## Data analyst portfolio
 #### This portfolio contains educational projects as well as pet projects and pro bono projects. Educational projects were implemented during training <a href="https://practicum.yandex.ru/promo/long-courses/data-analyst">Yandex.Practicum Data Analyst Plus</a> and reviewed by the team of data analysts. All projects contain markdown files with the description and jupyter notebook files. 
 
-####<a href="https://disk.yandex.ru/i/dd_A2pgrBJcWRg">Certificate of Completion of the Data Analyst plus Professional Training Course</a>
+#### <a href="https://disk.yandex.ru/i/dd_A2pgrBJcWRg">Certificate of Completion of the Data Analyst plus Professional Training Course</a>
 
 <table width=100% valign=top >
   <tr>
