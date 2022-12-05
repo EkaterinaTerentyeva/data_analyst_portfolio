@@ -12,7 +12,7 @@
 - all accidents in the city - heatmap
 - for 2022 - map of the accidents by severity and by sex of the driver
 
-### Link to HTML (zith visualization of maps)  https://disk.yandex.ru/d/vt6PgrtO-2io_A
+### Link to HTML (with map visualization)  https://disk.yandex.ru/d/vt6PgrtO-2io_A
 
 ### Tools
 `pandas`,  `folium`, `geopandas`, `geopy`, `api OSM`, `shapely`
