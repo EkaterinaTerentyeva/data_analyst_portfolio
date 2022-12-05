@@ -133,7 +133,7 @@
   </tr>
   
    <tr>
-   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/18_Vordi_Driver">Maps of accidents Yekaterinburg</a></td>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/19_Maps_of_road_accidents_Yekaterinburg">Maps of accidents Yekaterinburg</a></td>
    <td>Analysis and visualization road accidents in Yekaterinburg</td>
    <td>geopandas, pandas, folium, geopy, api, shapely, seaborn</td>
    <td>english/pet project</td>
