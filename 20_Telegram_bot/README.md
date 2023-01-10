@@ -4,10 +4,12 @@
 
 ### Tasks
 
-1 Create telegram bot with personalized search of job offers (remote in France or on-site in region Occitanie) published for the last 24 hours - file main.py
-2 Create telegram bot with possibility to serach offers published in the last 24 hours in all countries where we can find indeed - file with_choise.py
+1 Create a telegram bot with a personalized search for vacancies (remotely in France or locally in the Occitania region) published in the last 24 hours - file main.py
+2 Create a telegram bot with the ability to search for offers published in the last 24 hours in all countries where we can find Indeed- file with_choise.py
 
-All used libraries - in requirements.text
+All used libraries are in requirements.text
+Source of data - Indeed
+Parsing - Selenium
 
 
 
