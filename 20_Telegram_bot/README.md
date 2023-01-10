@@ -9,7 +9,9 @@
 2 Create a telegram bot with the ability to search for offers published in the last 24 hours in all countries where we can find Indeed- file with_choise.py
 
 All used libraries are in requirements.text
+
 Source of data - Indeed
+
 Parsing - Selenium
 
 
