@@ -141,6 +141,14 @@
    <td>english/pet project</td>
   </tr>
   
+  
+   <tr>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/20_Telegram_bot">Telegram Bot</a></td>
+    <td>Created a Telegram bot with job offers parser</td>
+    <td>aiogram, seleniumL</td>
+       <td>english/pet project</td>
+  </tr>
+  
   <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Graduation project</a></td>
     <td>We gonna analyze game application, results of AB test and write SQL queries</td>
@@ -148,11 +156,6 @@
        <td>english/educational project</td>
   </tr>
  
- <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/20_Telegram_bot">Telegram Bot</a></td>
-    <td>Created a Telegram bot with job offers parser</td>
-    <td>aiogram, seleniumL</td>
-       <td>english/pet project</td>
-  </tr>
+
  
  
