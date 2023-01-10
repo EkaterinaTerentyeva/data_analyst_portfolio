@@ -149,7 +149,7 @@
   </tr>
  
  <tr>
-    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Telegram Bot</a></td>
+    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/20_Telegram_bot">Telegram Bot</a></td>
     <td>Created a Telegram bot with job offers parser</td>
     <td>aiogram, seleniumL</td>
        <td>english/pet project</td>
