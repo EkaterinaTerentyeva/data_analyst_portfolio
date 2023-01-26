@@ -151,7 +151,7 @@
   
   <tr>
    <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/21_Parsing_russian_churches">White Iris project</a></td>
-   <td>Scraping the site for charitable organization White Iris</td>
+   <td>Scraping the site for the charitable organization White Iris</td>
    <td>pandas, bs4, requests, selenium</td>
    <td>english/pro bono project</td>
   </tr>
