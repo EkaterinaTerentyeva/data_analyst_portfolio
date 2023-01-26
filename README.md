@@ -150,6 +150,17 @@
   </tr>
   
   <tr>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/19_Maps_of_road_accidents_Yekaterinburg">Maps of accidents Yekaterinburg</a></td>
+   <td>Scraping site for charitable organization White Iris</td>
+   <td>pandas, bs4, requests, selenium</td>
+   <td>english/pro bono project</td>
+  </tr>
+  
+  
+  
+  
+  
+  <tr>
     <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/GRADUATION_PROJECT">Graduation project</a></td>
     <td>We gonna analyze game application, results of AB test and write SQL queries</td>
     <td>pandas, scipy, numpy, python, os, scipy, seaborn, matplotlib, ttest, ztest, SQL</td>
