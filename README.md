@@ -157,7 +157,12 @@
   </tr>
   
   
-  
+   <tr>
+   <td><a href="https://github.com/EkaterinaTerentyeva/data_analyst_portfolio/tree/main/21_Parsing_russian_churches">White Iris project</a></td>
+   <td>Analysing tariffs and terminals of Chargex</td>
+   <td>pandas, seaborn, API</td>
+   <td>english/pro bono project</td>
+  </tr>
   
   
   <tr>
